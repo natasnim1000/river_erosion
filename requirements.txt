@@ -1,11 +1,6 @@
-# Core dependencies
 streamlit
 pandas
 numpy
 scikit-learn
 joblib
-
-# Model packages (only include what you actually use)
 xgboost
-lightgbm
-catboost
